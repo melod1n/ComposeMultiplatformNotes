@@ -42,7 +42,7 @@ object CreateNoteScreen : Screen {
                 modifier = Modifier.fillMaxSize()
                     .padding(padding)
             ) {
-                Text("Suck my dick")
+                Text("Some content here...")
             }
         }
     }
